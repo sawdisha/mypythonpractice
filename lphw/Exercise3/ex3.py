@@ -3,7 +3,7 @@ print("I will now count my chickens:")
 # Below line first performs division and then addition
 print("Hens", 25 + 30 / 6)
 # Below line performs multiplication first then remainder and then substraction operaation
-print("Roosters", 100 -25 * 3 % 4)
+print("Roosters", float(100 -25 * 3 % 4)) #to display acurate result in floating point
 # Below line prints the statement
 print("Now I will count the eggs:")
 # Below line first performs division them remainder and then addition, substraction as per the sequesnce in the equation
