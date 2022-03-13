@@ -6,7 +6,7 @@ print("Hens", 25 + 30 / 6)
 print("Roosters", float(100 -25 * 3 % 4)) #to display acurate result in floating point
 # Below line prints the statement
 print("Now I will count the eggs:")
-# Below line first performs division them remainder and then addition, substraction as per the sequesnce in the equation
+# Below line first performs remainder then division and then addition, substraction as per the sequesnce in the equation
 print(3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6)
 # Below line will print the question
 print("Is it true that 3 + 2 < 5 - 7?")
@@ -26,3 +26,4 @@ print("Is it greater?", 5 > -2)
 print("Is it greater or equal?", 5 >= -2)
 # Checks if the number on the left of comparision operator is lesser or equal to the number on right
 print("Is it less or equal?", 5<= -2)
+print("Exercise 3 completed")
