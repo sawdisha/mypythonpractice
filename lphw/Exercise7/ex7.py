@@ -3,7 +3,7 @@ print("Mary had a little lamb.")
 print("Its fleece was as white as {}.".format('snow'))
 print("And everywhere that Mary went.")
 print("." * 10) #what'd that do?
-#printed the '.' 10 times
+#printed the string 10 times
 
 end1 = "C"
 end2 = "h"
