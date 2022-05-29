@@ -8,8 +8,12 @@ I'll do a list:
 \t* Fishies
 \t* Catnip\n\t* Grass
 """
-
+study_drill = '''
+\v Trying Escape Sequence.\v\b and trying one more.
+'''
 print(tabby_cat)
 print(persian_cat)
 print(backslash_cat)
 print(fat_cat)
+print(study_drill)
+print(f"Combining Escape sequence and format string {study_drill}\n\"This is a result.\"")
