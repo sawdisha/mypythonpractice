@@ -21,4 +21,4 @@ end12 = "r"
 # Watch end = ' ' at the end. Try removing it to see what happens
 print(end1 + end2 + end3 + end4 + end5 + end6, end = ' ')
 print(end7 + end8 + end9 + end10 + end11 + end12)
-# , end = ' ' added next print statement on the same output line with a space
+# , end = ' ' added nextline print statement on the same output line with a space
