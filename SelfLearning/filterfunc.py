@@ -8,7 +8,7 @@ def check_num(num):
     else:
         return False
 
-#filer is used to excule items in an iterable object
+# filter is used to excule items in an iterable object
 greater_than_thirty = filter(check_num, list)
 
 for i in greater_than_thirty:
