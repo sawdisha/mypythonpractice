@@ -24,6 +24,7 @@ lesser_than_thirty = dict(filter(lambda item: item[0] <30, dict1.items()))
 print(lesser_than_thirty)
 
 # filter on  value
+# __contains__ inbuilt method
 h_present = dict(filter(lambda item: item[1].__contains__('h'), dict1.items()))
 print(h_present)
 
